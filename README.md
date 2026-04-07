@@ -28,7 +28,6 @@ Sample Dataset Images/ → Dataset samples
 - OpenCV
 - MediaPipe
 - PyTorch
-- TensorFlow/Keras
 - Ultralytics YOLOv8
 - Flask (for deployment)
 
